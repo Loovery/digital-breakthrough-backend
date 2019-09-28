@@ -1,1 +1,1 @@
-# digital-breakthrough-backend
+# Цифровой прорыв. Экономические системы. Backend
