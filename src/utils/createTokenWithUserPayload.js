@@ -7,7 +7,7 @@ const {
 
 const createTokenWithUserPayload = (user) => {
   const userPayload = {
-    _id: user._id,
+    _id: user.id,
     name: user.name,
     surname: user.surname,
     role: user.role,
