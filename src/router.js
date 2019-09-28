@@ -7,6 +7,7 @@ const auth = require('@auth/router');
 const regions = require('@regions/router');
 // eslint-disable-next-line import/no-unresolved,node/no-missing-require
 const jetcalc = require('@jetcalc/router');
+import map from '/apps/map/router';
 
 const app = express();
 
@@ -17,6 +18,7 @@ app.get('/', (req, res) => {
 app.use('/auth', auth);
 app.use('/regions', regions);
 app.use('/jetcalc', jetcalc);
+app.use('/map', map);
 
 // the catch all route
 app.all('*', (req, res) => {
