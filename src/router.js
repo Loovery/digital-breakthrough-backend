@@ -1,5 +1,6 @@
 // eslint-disable-next-line import/no-absolute-path
 import map from '/apps/map/router';
+import dataset from '/apps/dataset/router';
 
 require('module-alias/register');
 
@@ -21,6 +22,7 @@ app.use('/auth', auth);
 app.use('/regions', regions);
 app.use('/jetcalc', jetcalc);
 app.use('/map', map);
+app.use('/dataset', dataset);
 
 // the catch all route
 app.all('*', (req, res) => {

@@ -1,0 +1,1135 @@
+[
+  {
+    "name": "Карачаево-Черкесия",
+    "iso": "KC",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Карелия",
+    "iso": "KR",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Кемерово",
+    "iso": "KEM",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Хабаровский край",
+    "iso": "KHA",
+    "centers": [
+      {
+        "name": "КГБУЗ \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "680028, ХАБАРОВСКИЙ КРАЙ, ГОРОД ХАБАРОВСК, УЛИЦА ИСТОМИНА, 85, ОГРН: 1022701133828, Дата присвоения ОГРН: 09.12.2002, ИНН: 2722912088, КПП: 272201001, ГЛАВНЫЙ ВРАЧ: Бердаков Юрий Николаевич",
+        "date_open": "09.12.2002",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Хакассия",
+    "iso": "KK",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ханты-Manсийск",
+    "iso": "KHM",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Адыгея",
+    "iso": "AD",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Алтай",
+    "iso": "ALT",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Амур",
+    "iso": "AMU",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Архангельск",
+    "iso": "ARK",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Астрахань",
+    "iso": "AST",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "република Башкортостан",
+    "iso": "BA",
+    "centers": [
+      {
+        "name": "АНО \"ЦЕНТР ПЕРИНАТАЛЬНОЙ МЕДИЦИНЫ\"",
+        "adress": "450034 БАШКОРТОСТАН РЕСПУБЛИКА ГОРОД УФА УЛИЦА ЦИОЛКОВСКОГО 46 , ОГРН: 1030204436943, Дата присвоения ОГРН: 06.02.2003, ИНН: 0277033310, КПП: 027701001, ДИРЕКТОР: Евсеев Михаил Юрьевич",
+        "date_open": "06.02.2003",
+        "date_close": "26.02.2010",
+        "isClosed": true
+      },
+      {
+        "name": "АНО \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "453261, БАШКОРТОСТАН РЕСПУБЛИКА, ГОРОД САЛАВАТ, УЛИЦА СОВЕТСКАЯ, ДОМ 2, КАБИНЕТ 19, ОГРН: 1180280001220, Дата присвоения ОГРН: 13.01.2018, ИНН: 0266057848, КПП: 026601001, ДИРЕКТОР: Ксенафонтов Андрей Федорович",
+        "date_open": "13.01.2018",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Белгородская область",
+    "iso": "BEL",
+    "centers": [
+      {
+        "name": "ООО \"ЦЕНТР ПЕРИНАТАЛЬНОЙ ПОДДЕРЖКИ\"",
+        "adress": "308009 БЕЛГОРОДСКАЯ ОБЛАСТЬ ГОРОД БЕЛГОРОД ПРОСПЕКТ СЛАВЫ ДОМ 25 ПОМЕЩЕНИЕ 13, ОГРН: 1183123022950, Дата присвоения ОГРН: 03.08.2018, ИНН: 3123441674, КПП: 312301001, ГЕНЕРАЛЬНЫЙ ДИРЕКТОР: Курдяева Наталья Владимировна",
+        "date_open": "03.08.2018",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Брянск",
+    "iso": "BRY",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Бурятский",
+    "iso": "BU",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Чечня",
+    "iso": "CE",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Челябинск",
+    "iso": "CHE",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Чукотка",
+    "iso": "CHU",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "республика Чувашия",
+    "iso": "CU",
+    "centers": [
+      {
+        "name": "МУЗ \"ГОРОДСКОЙ ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "428028 ЧУВАШСКАЯ РЕСПУБЛИКА - ЧУВАШИЯ ГОРОД ЧЕБОКСАРЫ ПРОСПЕКТ ТРАКТОРОСТРОИТЕЛЕЙ 18 , ОГРН: 1022100975632, Дата присвоения ОГРН: 06.11.2002, ИНН: 2127320100, КПП: 212701001, Главный врач: Мыциков Александр Витальевич",
+        "date_open": "06.11.2002",
+        "date_close": "24.12.2008",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Санкт-Петербург",
+    "iso": "SPE",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Дагестан",
+    "iso": "DA",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Горно-Алтайский",
+    "iso": "AL",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ингуши",
+    "iso": "IN",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Иваново",
+    "iso": "IVA",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Кабардино-Балкарский",
+    "iso": "KB",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Калининград",
+    "iso": "KGD",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "република Калмыкия",
+    "iso": "KL",
+    "centers": [
+      {
+        "name": "БУ РК \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР ИМ. О.А. ШУНГАЕВОЙ\"",
+        "adress": "358000, КАЛМЫКИЯ РЕСПУБЛИКА, ГОРОД ЭЛИСТА, УЛИЦА В.И.ЛЕНИНА, 227, ОГРН: 1120816001074, Дата присвоения ОГРН: 29.02.2012, ИНН: 0816019824, КПП: 081601001, ГЛАВНЫЙ ВРАЧ: Ермошкаева Тамара Улюмджиевна",
+        "date_open": "29.02.2012",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Калуга",
+    "iso": "KLU",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Киров",
+    "iso": "KIR",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Коми",
+    "iso": "KO",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Кострома",
+    "iso": "KOS",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Краснодарский край",
+    "iso": "KDA",
+    "centers": [
+      {
+        "name": "ООО \"КУБАНСКИЙ ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "350020 КРАСНОДАРСКИЙ КРАЙ ГОРОД КРАСНОДАР УЛИЦА КРАСНЫХ ПАРТИЗАН 238 , ОГРН: 1082308010047, Дата присвоения ОГРН: 05.09.2008, ИНН: 2308149776, КПП: 230801001, ЛИКВИДАТОР: Голева Марина Анатольевна",
+        "date_open": "05.09.2008",
+        "date_close": "14.12.2011",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Курганская область",
+    "iso": "KGN",
+    "centers": [
+      {
+        "name": "ГБУ \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "640014, КУРГАНСКАЯ ОБЛАСТЬ, ГОРОД КУРГАН, УЛИЦА КАРБЫШЕВА, 39, ОГРН: 1114501007917, Дата присвоения ОГРН: 13.09.2011, ИНН: 4501170427, КПП: 450101001, ГЛАВНЫЙ ВРАЧ: Осина Татьяна Анатольевна",
+        "date_open": "13.09.2011",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Курск",
+    "iso": "KRS",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ленинград",
+    "iso": "LEN",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Липецк",
+    "iso": "LIP",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Магадан",
+    "iso": "MAG",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Марий Эл",
+    "iso": "ME",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Мордовия",
+    "iso": "MO",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Московская область",
+    "iso": "MOS",
+    "centers": [
+      {
+        "name": "ООО \"МФ \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "141195, МОСКОВСКАЯ ОБЛАСТЬ, ГОРОД ФРЯЗИНО, УЛИЦА ПОЛЕВАЯ, 6, ОГРН: 1025007069482, Дата присвоения ОГРН: 27.11.2002, ИНН: 5052003562, КПП: 505001001, ДИРЕКТОР: Поручиков Павел Валерьевич",
+        "date_open": "27.11.2002",
+        "date_close": "17.12.2018",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Мурманск",
+    "iso": "MUR",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ненецкий",
+    "iso": "NEN",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Нижегородский",
+    "iso": "NIZ",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Северная Осетия",
+    "iso": "SE",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Новгород",
+    "iso": "NGR",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Новосибирск",
+    "iso": "NVS",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Омск",
+    "iso": "OMS",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Орел",
+    "iso": "ORL",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Оренбургская область",
+    "iso": "ORE",
+    "centers": [
+      {
+        "name": "МУЗ \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\" Г. ОРСКА",
+        "adress": "462419 ОРЕНБУРГСКАЯ ОБЛАСТЬ ГОРОД ОРСК ПРОСПЕКТ ЛЕНИНА 29 - -, ОГРН: 1065614059983, Дата присвоения ОГРН: 17.11.2006, ИНН: 5614028945, КПП: 561401001, : Антоненко Валерий Николаевич",
+        "date_open": "17.11.2006",
+        "date_close": "24.06.2014",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Пенза",
+    "iso": "PNZ",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Приморье",
+    "iso": "PRI",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Псков",
+    "iso": "PSK",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ростов-на-дону",
+    "iso": "ROS",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Рязань",
+    "iso": "RYA",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Саха",
+    "iso": "SA",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Сахалин",
+    "iso": "SAK",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Самара",
+    "iso": "SAM",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Саратовская область",
+    "iso": "SAR",
+    "centers": [
+      {
+        "name": "ГУЗ \"КЛИНИЧЕСКИЙ ПЕРИНАТАЛЬНЫЙ ЦЕНТР САРАТОВСКОЙ ОБЛАСТИ\"",
+        "adress": "410047, САРАТОВСКАЯ ОБЛАСТЬ, ГОРОД САРАТОВ, УЛИЦА ЗЕРНОВАЯ, 33, ОГРН: 1106450009731, Дата присвоения ОГРН: 28.12.2010, ИНН: 6452951010, КПП: 645201001, ГЛАВНЫЙ ВРАЧ: Ермолаева Елена Ивановна",
+        "date_open": "28.12.2010",
+        "date_close": "",
+        "isClosed": false
+      },
+      {
+        "name": "ГУЗ \"ВОЛЬСКИЙ ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "412913, САРАТОВСКАЯ ОБЛАСТЬ, ГОРОД ВОЛЬСК, УЛИЦА ЛЬВОВА РОЩА, 1 В, ОГРН: 1026401676212, Дата присвоения ОГРН: 24.10.2002, ИНН: 6441004056, КПП: 644101001, ГЛАВНЫЙ ВРАЧ: Соколовская Лариса Александровна",
+        "date_open": "24.10.2002",
+        "date_close": "11.02.2019",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Смоленск",
+    "iso": "SMO",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ставрополь",
+    "iso": "STA",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Свердловск",
+    "iso": "SVE",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Тамбов",
+    "iso": "TAM",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "република Татарстан",
+    "iso": "TA",
+    "centers": [
+      {
+        "name": "МУЗ \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "423812 ТАТАРСТАН РЕСПУБЛИКА ГОРОД НАБЕРЕЖНЫЕ ЧЕЛНЫ ПРОСПЕКТ МИРА 2 , ОГРН: 1021602012850, Дата присвоения ОГРН: 21.08.2002, ИНН: 1650042458, КПП: 165001001, Главный врач: Фатыхова Чулпан Гависовна",
+        "date_open": "21.08.2002",
+        "date_close": "28.02.2011",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Томская область",
+    "iso": "TOM",
+    "centers": [
+      {
+        "name": "ООО \"ЦЕНТР ПЕРИНАТАЛЬНЫХ ИНФЕКЦИЙ\"",
+        "adress": "634050 ТОМСКАЯ ОБЛАСТЬ ГОРОД ТОМСК ТРАКТ МОСКОВСКИЙ 2 18 , ОГРН: 1027000908329, Дата присвоения ОГРН: 16.12.2002, ИНН: 7017062618, КПП: 701701001, : Захарова Галина Александровна",
+        "date_open": "16.12.2002",
+        "date_close": "17.06.2015",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Тула",
+    "iso": "TUL",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Тува",
+    "iso": "TY",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Тверь",
+    "iso": "TVE",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Тюменская область",
+    "iso": "TYU",
+    "centers": [
+      {
+        "name": "ГБУЗ ТО \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\" (Г.ТЮМЕНЬ)",
+        "adress": "625002, ТЮМЕНСКАЯ ОБЛАСТЬ, ГОРОД ТЮМЕНЬ, УЛИЦА ДАУДЕЛЬНАЯ, 1, ОГРН: 1027200803640, Дата присвоения ОГРН: 03.10.2002, ИНН: 7202070194, КПП: 720301001, ГЛАВНЫЙ ВРАЧ: Кукарская Ирина Ивановна",
+        "date_open": "03.10.2002",
+        "date_close": "",
+        "isClosed": false
+      },
+      {
+        "name": "АНО \"ОБЛАСТНОЙ ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "625000, ТЮМЕНСКАЯ ОБЛАСТЬ, ГОРОД ТЮМЕНЬ, УЛИЦА ЭНЕРГЕТИКОВ, 26, -, -, ОГРН: 1057200852851, Дата присвоения ОГРН: 14.10.2005, ИНН: 7203166999, КПП: 720301001, Заместитель директора по экономике Департамента здравоохранения: Сунгатуллина Лена Ахтямовна",
+        "date_open": "14.10.2005",
+        "date_close": "10.11.2006",
+        "isClosed": true
+      },
+      {
+        "name": "ГБУЗ ТО \"ПЕРИНАТАЛЬНЫЙ ЦЕНТР\" (Г.ТОБОЛЬСК)",
+        "adress": "626150, ТЮМЕНСКАЯ ОБЛАСТЬ, ГОРОД ТОБОЛЬСК, МИКРОРАЙОН 3-Й Б, № 26, ОГРН: 1067206044729, Дата присвоения ОГРН: 27.03.2006, ИНН: 7206032376, КПП: 720601001, ГЛАВНЫЙ ВРАЧ: Баширов Марат Иванович",
+        "date_open": "27.03.2006",
+        "date_close": "19.12.2013",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "name": "Удмуртская республика",
+    "iso": "UD",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ульяновск",
+    "iso": "ULY",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Владимир",
+    "iso": "VLA",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Волгоград",
+    "iso": "VGG",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Вологда",
+    "iso": "VLG",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Воронеж",
+    "iso": "VOR",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ямало-Ненецкий",
+    "iso": "YAN",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Ярославская область",
+    "iso": "YAR",
+    "centers": [
+      {
+        "name": "ГБУЗ ЯО \"ОБЛАСТНОЙ ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "150042, ЯРОСЛАВСКАЯ ОБЛАСТЬ, ГОРОД ЯРОСЛАВЛЬ, ШОССЕ ТУТАЕВСКОЕ, ДОМ 31В, ОГРН: 1107606005650, Дата присвоения ОГРН: 08.12.2010, ИНН: 7606079812, КПП: 760201001, ДИРЕКТОР: Кирдянов Сергей Юрьевич",
+        "date_open": "08.12.2010",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Yevrey",
+    "iso": "YEV",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Крым",
+    "iso": "CRI",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Севастополь",
+    "iso": "SEV",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Красноярск",
+    "iso": "KYA",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Забайкалье",
+    "iso": "ZAB",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Иркутская область",
+    "iso": "IRK",
+    "centers": [
+      {
+        "name": "ОГАУЗ \"АНГАРСКИЙ ПЕРИНАТАЛЬНЫЙ ЦЕНТР\"",
+        "adress": "665838, ИРКУТСКАЯ ОБЛАСТЬ, ГОРОД АНГАРСК, МИКРОРАЙОН 22, 22, ОГРН: 1033800522821, Дата присвоения ОГРН: 06.02.2003, ИНН: 3801013663, КПП: 380101001, ГЛАВНЫЙ ВРАЧ: Бреус Наталья Петровна",
+        "date_open": "06.02.2003",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Пермь",
+    "iso": "PER",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Камчатка",
+    "iso": "KAM",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "name": "Москва Сити",
+    "iso": "MOW",
+    "centers": [
+      {
+        "name": "",
+        "adress": "",
+        "date_open": "",
+        "date_close": "",
+        "isClosed": false
+      }
+    ]
+  }
+]
