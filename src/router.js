@@ -1,13 +1,15 @@
+// eslint-disable-next-line import/no-absolute-path
+import map from '/apps/map/router';
+
 require('module-alias/register');
 
 const express = require('express');
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 const auth = require('@auth/router');
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 const regions = require('@regions/router');
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 const jetcalc = require('@jetcalc/router');
-import map from '/apps/map/router';
 
 const app = express();
 

@@ -9,7 +9,7 @@ const Joi = require('@hapi/joi');
  * Validates the request properties specified in the schema
  * @param {Object} schema { params, body, query }
  */
-const validate = schema => (
+const validate = (schema) => (
   (req, res, next) => {
     if (!schema) {
       return next();

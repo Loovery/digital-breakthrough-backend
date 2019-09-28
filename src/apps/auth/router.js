@@ -5,7 +5,7 @@ const Joi = require('@hapi/joi');
 const {
   validateRequest,
   wrapAsync,
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 } = require('@middlewares');
 const { login, registration, jetcalcAuth } = require('./services');
 

@@ -4,7 +4,7 @@ require('module-alias/register');
 // const querystring = require('querystring');
 
 const { to } = require('await-to-js');
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 const { JetcalcServer } = require('@db/models');
 
 

@@ -2,7 +2,7 @@ const jwt = require('jsonwebtoken');
 
 const {
   TOKEN_SECRET,
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 } = require('@config');
 
 const createTokenWithUserPayload = (user) => {

@@ -1,7 +1,7 @@
 require('module-alias/register');
 
 const express = require('express');
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 const { wrapAsync } = require('@middlewares');
 const { getRegions } = require('./services');
 

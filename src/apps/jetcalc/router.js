@@ -2,7 +2,7 @@ require('module-alias/register');
 
 const express = require('express');
 const Joi = require('@hapi/joi');
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 const { loggedIn, validateRequest, wrapAsync } = require('@middlewares');
 const { saveJetcalcServer } = require('./services');
 

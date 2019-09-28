@@ -1,5 +1,5 @@
 require('module-alias/register');
-// eslint-disable-next-line import/no-unresolved,node/no-missing-require
+// eslint-disable-next-line import/no-unresolved
 require('@auth/services/checkAuth');
 require('./db');
 require('dotenv').config();
