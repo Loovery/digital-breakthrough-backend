@@ -1,5 +1,6 @@
 // eslint-disable-next-line import/no-absolute-path
 import map from '/apps/map/router';
+// eslint-disable-next-line import/no-absolute-path
 import dataset from '/apps/dataset/router';
 
 require('module-alias/register');
